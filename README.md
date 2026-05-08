@@ -138,17 +138,7 @@ python main.py
 
 ---
 
-# Project Structure
 
-```text
-custom-ipt/
-│
-├── main.py
-├── README.md
-└── assets/
-```
-
----
 
 # Keyboard Shortcuts
 
@@ -218,10 +208,7 @@ Possible future enhancements:
 
 # Author
 
-Developed as part of an Image Processing / AI Engineering project.
+Developed as part of an Image Processing / AI 4th year Engineering project.
 
 ---
 
-# License
-
-This project is released under the MIT License.
