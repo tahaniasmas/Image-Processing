@@ -117,20 +117,13 @@ Compute:
 
 # Installation
 
-## 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/custom-ipt.git
-cd custom-ipt
-```
-
-## 2. Install Dependencies
+## 1. Install Dependencies
 
 ```bash
 pip install numpy pillow matplotlib
 ```
 
-## 3. Run the Application
+## 2. Run the Application
 
 ```bash
 python main.py
