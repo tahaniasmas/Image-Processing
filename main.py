@@ -824,7 +824,7 @@ class App:
         self.root.update()
         self._push(zhang_suen_skeleton(b)); self._set_status("Squelette Zhang-Suen calculé.")
 
-    # ── Outils d'analyse ──────────────────────────────────────────────────────
+
 
     def tool_line_profile(self):
         self.tool_mode = "line"
